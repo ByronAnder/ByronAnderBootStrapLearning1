@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .btn-danger {
 	background-color: teal;
 }
 
 .btn-danger:hover {
 	background-color: black;
+=======
+.btn-danger {
+	background-color: teal;
+}
+
+.btn-danger:hover {
+	background-color: black;
+>>>>>>> e986ba158699ad2859f5292213dd745843ba8f31
 }
